@@ -1,0 +1,6 @@
+C:\Users\joses\AndroidStudioProjects\ObserveCurrentLocationJetpackCompose\app\src\main\java\com\example\observecurrentlocationjetpackcompose\ui\theme\Color.kt
+C:\Users\joses\AndroidStudioProjects\ObserveCurrentLocationJetpackCompose\app\src\main\java\com\example\observecurrentlocationjetpackcompose\ui\theme\Type.kt
+C:\Users\joses\AndroidStudioProjects\ObserveCurrentLocationJetpackCompose\app\src\main\java\com\example\observecurrentlocationjetpackcompose\MainActivity.kt
+C:\Users\joses\AndroidStudioProjects\ObserveCurrentLocationJetpackCompose\app\src\main\java\com\example\observecurrentlocationjetpackcompose\Data.kt
+C:\Users\joses\AndroidStudioProjects\ObserveCurrentLocationJetpackCompose\app\src\main\java\com\example\observecurrentlocationjetpackcompose\ui\theme\Shape.kt
+C:\Users\joses\AndroidStudioProjects\ObserveCurrentLocationJetpackCompose\app\src\main\java\com\example\observecurrentlocationjetpackcompose\ui\theme\Theme.kt
